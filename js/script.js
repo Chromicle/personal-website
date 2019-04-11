@@ -7,7 +7,7 @@
 
 $(function(){
 	$("#about-me").typed({
-		strings: ["Student at Amrita University.","Member @amfoss.","Aspiring Data Scientist.","Open Source Enthusiast.","Web Developer.","Optimist | Foodie |Techie.","Loves to Code <&#x2764>."],
+		strings: ["Student at Amrita University.","Member @amfoss.","Android Developer","Open Source Enthusiast.","Java lover","Loves to Code <&#x2764>."],
 		typeSpeed: 30,
 		loop: true,
 	});
